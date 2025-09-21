@@ -11,3 +11,7 @@ All the docker stuff should just work if you run "./run.sh".
 I export the pyplot graphs to the "graphs" dir because getting GUI stuff to work in Docker is a little insaine for the scope of this project.
 
 :D
+
+Yours Truly,
+
+Strawberry Milkshake
